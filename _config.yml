@@ -8,6 +8,7 @@
 # Site settings
 title: title
 email: email
+remote_theme: ankitsultana/researcher@gem
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Uppsala Secure Learning and Control Lab.
 baseurl: ""
