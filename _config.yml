@@ -6,17 +6,23 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: title
-email: email
+title: Researcher
+url: "https://ankitsultana.com"
 remote_theme: ankitsultana/researcher@gem
-description: > # this means to ignore newlines until "baseurl:"
-  Website of the Uppsala Secure Learning and Control Lab.
-baseurl: ""
-url: "https://uslc-lab.github.io"
 
-include:
-  - .htaccess
-  - _pages
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
 
 nav:
  - name: "About"
