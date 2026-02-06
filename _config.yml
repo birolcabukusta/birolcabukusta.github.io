@@ -8,7 +8,7 @@
 # Site settings
 title: Researcher
 url: "https://ankitsultana.com"
-remote_theme: ankitsultana/researcher
+remote_theme: ankitsultana/researcher@gh-pages
 
 
 markdown: kramdown
