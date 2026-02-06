@@ -6,3 +6,6 @@ Of the four major macromolecules of life –proteins, sugars, lipids, and nuclei
 ## Lipid homeostasis in familial ALS
 
 Lipid transfer proteins typically function by interacting with two organelles, defining the source and destination of the lipids they transport. Most of these proteins rely on binding to the VAPA and VAPB proteins on the endoplasmic reticulum (ER). Mutations in the VAPB gene have been identified in familial cases of amyotrophic lateral sclerosis (ALS), and reduced levels of VAPB protein have also been observed in sporadic ALS patients. Because VAPB is essential for correct localization of lipid transfer proteins to the ER, its dysfunction disrupts lipid homeostasis. This project aims to investigate how ALS-linked VAPB mutations affect intracellular lipid organization and homeostasis. We use CRISPR/Cas9-based genomic editing tools in cultured and induced pluripotent stem cells to study the effect of the ALS-causing VAPB variants. Although VAPB mutations account for only a small subset of familial ALS cases, lipid imbalance is increasingly recognized as a common feature across multiple neurodegenerative diseases.
+
+
+> Our research is supported by Maastricht University, ALS Stichting, and EU-Marie Skłodowska-Curie Actions
