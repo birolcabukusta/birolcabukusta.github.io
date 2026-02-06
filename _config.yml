@@ -8,6 +8,9 @@
 # Site settings
 title: Researcher
 url: "https://ankitsultana.com"
+plugins:
+  - jekyll-remote-theme
+
 remote_theme: ankitsultana/researcher@gh-pages
 
 
