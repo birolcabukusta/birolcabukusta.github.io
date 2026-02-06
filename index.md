@@ -2,13 +2,11 @@
 layout: default
 ---
 
-## About Me
+We combine cell biology, biochemistry, genetic and analytical tools to investigate the principles that regulate cellular lipid homeostasis, with a focus on how cells achieve the spatial distribution of lipids across membrane-bound organelles. We are particularly interested in the role of membrane contact sites—specialized regions where organelles come into close proximity—in coordinating lipid exchange. We also explore how disruptions in these processes contribute to disease, such as amyotrophic lateral sclerosis (ALS).
 
+ 
 
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Our lab is part of the Maastricht MultiModal Molecular Imaging Institute (M4i), the largest molecular imaging centre in Europe. M4i is an international institute that brings together a powerful palette of innovative molecular imaging technologies. Its mission is to perform fundamental, instrumentation and applied studies in molecular imaging as part of a translational, synergistic, interdisciplinary research programme that attracts top researchers from across the world.
 
 ## Publications
 
