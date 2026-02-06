@@ -1,6 +1,6 @@
 # Publications
 
-> Below is a list of selected publications. A full list can be found on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=cabukusta%20b%5Bauthor%5D&sort=date) or Google Scholar.
+> Below is a list of selected publications. A full list can be found on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=cabukusta%20b%5Bauthor%5D&sort=date) or [Google Scholar](https://scholar.google.com/citations?user=fu60iZ8AAAAJ&hl=en).
 
 **Emerging roles of lipid transfer protein dimerization**
 Shalom Borst Pauwels, Jacques Neefjes, Birol Cabukusta
