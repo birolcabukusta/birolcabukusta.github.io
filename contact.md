@@ -2,25 +2,14 @@
 layout: default
 is_contact: true
 ---
+# Contact
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: birolcabukusta \\at// maastrichtuniversity.nl
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
+* Address: Maastricht MultiModal Molecular Imaging Institute (M4I), Universiteitssingel 50, 6229ER Maastricht
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* [Bluesky]([@bs](https://bsky.app/profile/birolcabukusta.bsky.social))
+
+
