@@ -2,8 +2,11 @@
 
 > Below is a list of selected publications. A full list can be found on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=cabukusta%20b%5Bauthor%5D&sort=date) or [Google Scholar](https://scholar.google.com/citations?user=fu60iZ8AAAAJ&hl=en).
 
+### 2025
 **Emerging roles of lipid transfer protein dimerization**
+
 Shalom Borst Pauwels, Jacques Neefjes, Birol Cabukusta
+
 _J Cell Sci. 2025 Aug 1;138(15):jcs263971. doi: 10.1242/jcs.263971._
 
 **The ORP9-ORP11 dimer promotes sphingomyelin synthesis**
