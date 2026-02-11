@@ -2,6 +2,9 @@
 layout: default
 ---
 
+Research Group Leader at Maastricht University\
+\
+\
 We combine **cell biology**, **biochemistry** and **genetic**  tools to investigate the principles that regulate cellular lipid homeostasis, with a focus on how cells achieve the spatial distribution of lipids across membrane-bound organelles. We are particularly interested in the role of membrane contact sites—specialized regions where organelles come into close proximity—in coordinating lipid exchange. We also explore how disruptions in these processes contribute to disease, such as amyotrophic lateral sclerosis (ALS).\
 \
 \
