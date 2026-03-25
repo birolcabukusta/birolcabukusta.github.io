@@ -16,9 +16,10 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Home"
+   link: "index"
  - name: "Team"
    link: "team"
  - name: "Publications"
    link: "publications"
- - name: "Contact"
-   link: "contact"
+
