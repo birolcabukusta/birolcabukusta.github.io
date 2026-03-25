@@ -1,7 +1,13 @@
 # Team
 
-## Birol Cabukusta
-Group leader\
+**Birol Cabukusta** _Group Leader_ \
+**Person 2** _Another title_\
 
-### Person 2
+
+### Past members
+
+
 Title\
+
+* 1 234
+* 
