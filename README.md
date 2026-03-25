@@ -1,3 +1,2 @@
-# Website code
 
-from ankitsultana.com
+Website code is from ankitsultana.com
