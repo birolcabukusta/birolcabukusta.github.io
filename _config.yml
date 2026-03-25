@@ -8,6 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
+#footer_url: "https://github.com/ankitsultana"
 footer_text: "Maastricht University | M4i – Maastricht Multimodal Molecular Imaging Institute"
 
 sass:
@@ -15,11 +16,11 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Home"
+   link: "index"
  - name: "Research"
    link: "research"
  - name: "Publications"
    link: "publications"
- – name: "Team"
-   link: "team"
  - name: "Contact"
    link: "contact"
