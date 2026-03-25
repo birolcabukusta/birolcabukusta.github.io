@@ -18,8 +18,6 @@ sass:
 nav:
  - name: "Home"
    link: "index"
- - name: "Research"
-   link: "research"
  - name: "Team"
    link: "team"
  - name: "Publications"
