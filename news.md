@@ -10,6 +10,9 @@
 
 * Sneha's paper is accepted in Analytical Chemistry 🎉
 
+### January
+* Shalom's paper is now on bioRxiv.org
+
 ## 2025
 
 ### August
