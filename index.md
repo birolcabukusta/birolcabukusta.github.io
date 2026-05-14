@@ -22,5 +22,7 @@ Maastricht Multimodal Molecular Imaging Institute (M4I)
 ## Social
 
 [Bluesky](https://bsky.app/profile/birolcabukusta.bsky.social)
+[Instagram](https://www.instagram.com/birolcabukusta)
+[Linkedin](https://www.linkedin.com/in/birol-cabukusta-712a32283/)
 
 
