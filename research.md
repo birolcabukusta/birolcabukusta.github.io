@@ -1,18 +1,13 @@
 # Research
 
-<div style="width:70%; height:220px; overflow:hidden; margin:auto; border-radius:12px;">
-  <img src="/images/test3-2.gif"
-       style="width:100%; margin-top:-120px;">
-</div>
 
 <img src="/images/test3-2.gif" width="700" align="center">
 
-<div style="text-align:center;">
-  <img src="/images/test3-2.gif" width="700">
-</div>
- 
+
 ## Lipid transfer proteins defining organelle identity
 Of the four major macromolecules of life –proteins, sugars, lipids, and nucleic acids– only lipids are inherently hydrophobic. This means lipids cannot move freely through our body, including within our own cells; and their distribution must be facilitated. Many types of lipids are heterogeneously distributed across various organelles of the cell. While vesicular trafficking transports lipids in bulk between organelles, non-vesicular trafficking of lipids plays a key role in defining the lipid compositions of organelles. This non-vesicular trafficking of lipids is achieved by a group of lipid transfer proteins that carry lipids using their hydrophobic cavities. As of 2025, there are about 100 intracellular lipid transfer proteins identified in humans and the function of many lipid transfer proteins in defining cellular levels and distributions remains unclear. In this project, we combine genetic and analytical tools to identify the function of unknown lipid transfer proteins, followed by biochemical and structural biology characterisation of their molecular mechanisms of action.
+
+---
 
 ## Lipid homeostasis in familial ALS
 
