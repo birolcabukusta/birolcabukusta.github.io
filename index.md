@@ -11,6 +11,8 @@ Our team is part of the [**Maastricht Multimodal Molecular Imaging Institute (M4
 # News
 
 * _May 2026:_ Sneha's paper is accepted in Analytical Chemistry 🎉
+* [See more news](news.md)
+
 ---
 
 # Contact
