@@ -29,4 +29,6 @@ Maastricht Multimodal Molecular Imaging Institute (M4I)
 [Instagram](https://www.instagram.com/birolcabukusta) \
 [Linkedin](https://www.linkedin.com/in/birol-cabukusta-712a32283/)
 
+---
+<img src="/images/Combined logos.png" width="700">
 
