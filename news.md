@@ -1,4 +1,5 @@
 # News
 
 ## 2025
-> Our latest Review article is now published at Journal of Cell Science. [Link here].
+
+* Shalom's Review on lipid transfer protein dimerizations is now published at [Journal of Cell Science](https://pubmed.ncbi.nlm.nih.gov/40778827/).
