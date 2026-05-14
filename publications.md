@@ -1,5 +1,12 @@
 # Publications
 
+## Preprint
+**VAPB and its binding partner AKAP11 promote lipid droplet degradation**\
+Shalom Borst Pauwels, Menno Spits, Lennert L.J. Janssen, Sarah Rotman, Arnoud H. de Ru, Anja W.M. de Jong, Erik Bos, Peter A. van Veelen, Roman I. Koning, Martin Giera, Jacques Neefjes, Birol Cabukusta\
+[_bioRxiv.org_](https://www.biorxiv.org/content/10.64898/2026.01.27.699657v1.full)
+
+## Published
+
 > Below is a list of selected publications. A full list can be found on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=cabukusta%20b%5Bauthor%5D&sort=date) or [Google Scholar](https://scholar.google.com/citations?user=fu60iZ8AAAAJ&hl=en).
 
 
