@@ -1,8 +1,14 @@
 # Research
 
 <div style="width:70%; height:220px; overflow:hidden; margin:auto; border-radius:12px;">
-  <img src="/images/test3.gif"
+  <img src="/images/test3-2.gif"
        style="width:100%; margin-top:-120px;">
+</div>
+
+<img src="/images/test3-2.gif" width="700" align="center">
+
+<div style="text-align:center;">
+  <img src="/images/test3-2.gif" width="700">
 </div>
  
 ## Lipid transfer proteins defining organelle identity
