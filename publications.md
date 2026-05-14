@@ -1,6 +1,6 @@
 # Publications
 
-## Preprint
+## Preprints
 **VAPB and its binding partner AKAP11 promote lipid droplet degradation**\
 Shalom Borst Pauwels, Menno Spits, Lennert L.J. Janssen, Sarah Rotman, Arnoud H. de Ru, Anja W.M. de Jong, Erik Bos, Peter A. van Veelen, Roman I. Koning, Martin Giera, Jacques Neefjes, Birol Cabukusta\
 [_bioRxiv.org_](https://www.biorxiv.org/content/10.64898/2026.01.27.699657v1.full)
