@@ -10,4 +10,6 @@ Lipid transfer proteins typically function by interacting with two organelles, d
 
 > Our research is supported by Maastricht University, [ALS Stichting](https://www.als.nl/onderzoek/lipals-lipid-droplet-defects-in-vapb-mediated-familial-als/), and the EU-MSCA Doctoral Network [LipidBright](https://www.lipidbright.eu)
 
+<img src="/images/Combined logos.png" width="700">
+
 ---
