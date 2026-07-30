@@ -7,7 +7,8 @@ Shalom Borst Pauwels, Menno Spits, Lennert L.J. Janssen, Sarah Rotman, Arnoud H.
 
 ## Published
 
-> Below is a list of selected publications. A full list can be found on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=cabukusta%20b%5Bauthor%5D&sort=date) or [Google Scholar](https://scholar.google.com/citations?user=fu60iZ8AAAAJ&hl=en).
+> Below is a list of selected publications. A full list can be found on [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=cabukusta%20b%5Bauthor%5D&sort=date) or [Google Scholar](https://scholar.google.com/citations?user=fu60iZ8AAAAJ&hl=en). \
+> A data resources for our publications (i.e. proteomics and lipidomics anaylses) can be fund on our [GitHub](https://github.com/birolcabukusta?tab=repositories) page.
 
 
 **Emerging roles of lipid transfer protein dimerization**  
